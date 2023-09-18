@@ -15,7 +15,7 @@ debugpy==1.6.7.post1
 decorator==5.1.1
 dnspython==2.4.2
 executing==1.2.0
-faiss==1.7.4
+faiss-cpu==1.7.4
 filelock==3.12.2
 frozenlist==1.4.0
 fsspec==2023.6.0
@@ -43,7 +43,7 @@ multidict==6.0.4
 nest-asyncio==1.5.7
 networkx==3.1
 nltk==3.8.1
-numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a19y8c22jc/croot/numpy_and_numpy_base_1691091616945/work
+numpy==1.24.3
 omegaconf==2.1.2
 openai==0.27.9
 packaging==23.1
